@@ -1,3 +1,12 @@
-package-lock.json
+# dependencies
+/node_modules
+node_modules
+# build output
+/build
 
-package.json
+# environment variables
+.env
+.env.local
+
+# misc
+.DS_Store
